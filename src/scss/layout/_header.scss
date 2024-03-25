@@ -5,7 +5,7 @@
     background-color: v.$verde;
     
     h1 { 
-        color: v.$blanco;
+        color: whitesmoke;
         text-align: center;
         @include m.tablet {
            margin: 0; 
@@ -29,7 +29,7 @@
     a {
         display: block;
         text-align: center;
-        color: v.$blanco;
+        color: whitesmoke;
         font-size: 2.4rem;  
         margin-bottom: 1rem;
         @include m.tablet {
